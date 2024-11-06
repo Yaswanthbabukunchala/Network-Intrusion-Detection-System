@@ -1,6 +1,4 @@
 
-Here's a sample README file for your Network Intrusion Detection project based on the dataset description provided:
-
 Network Intrusion Detection
 This project analyzes a dataset that simulates network intrusion detection, designed to identify and classify intrusions in a network environment. The dataset is derived from a simulated US Air Force LAN, where multiple types of network attacks were generated to test detection methods.
 
